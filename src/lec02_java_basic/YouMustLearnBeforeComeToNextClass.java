@@ -1,4 +1,4 @@
-package lec01_java_basic;
+package lec02_java_basic;
 
 public class YouMustLearnBeforeComeToNextClass {
 	// This is called class body
